@@ -48,6 +48,8 @@ Con el dataset listo, se procedió a realizar un análisis exploratorio utilizan
    - La aplicación de diversas técnicas de análisis y visualización para identificar patrones y tendencias.
    - La interpretación de los resultados obtenidos en cada etapa del análisis.
 
-### Contacto
-- Lucas Lopez
-- lucaslopezfx@gmail.com
+### 📫 ¿Dónde encontrarme?
+
+- LinkedIn: [Lucas López](www.linkedin.com/in/lucaslopezcoluchi)
+- Email: [lucaslopezfx@gmail.com](lucaslopezfx@gmail.com)
+
